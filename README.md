@@ -1,6 +1,5 @@
 # FIND THAT MEME!
-This is an unnoficial non signed Search engine addon
-to find that meme
+This is an unnoficial Search engine addon based on find that meme
 
 Yeah this repo is a joke but i swear is real
 
